@@ -29,9 +29,9 @@ Gerekli kütüphaneler:
 pkg update && pkg upgrade -y
 pkg install python git -y
 
-git clone https://github.com/KULLANICI_ADIN/PANTHER-HOLMES.git
+git clone https://github.com/pantixm/Panter-Holmes.git
 
-cd PANTHER-HOLMES
+cd Panter-Holmes
 
 pip install -r requirements.txt
 
@@ -43,9 +43,9 @@ sudo apt update
 
 sudo apt install python3 python3-pip git -y
 
-git clone https://github.com/KULLANICI_ADIN/PANTHER-HOLMES.git
+git clone https://github.com/pantixm/Panter-Holmes.git
 
-cd PANTHER-HOLMES
+cd Panter-Holmes
 
 pip3 install -r requirements.txt
 
@@ -56,9 +56,9 @@ python3 panter.py
 1. Python'u yükleyin.
 2. CMD veya PowerShell açın.
 
-git clone https://github.com/KULLANICI_ADIN/PANTHER-HOLMES.git
+git clone https://github.com/pantixm/Panter-Holmes.git
 
-cd PANTHER-HOLMES
+cd Panter-Holmes
 
 pip install -r requirements.txt
 
@@ -78,6 +78,6 @@ Kullanıcı, aracı kullanırken bulunduğu ülkenin yasalarına uymaktan soruml
 
 👨‍💻 Geliştirici
 
-PantixM
+Pantixm
 
 GitHub: https://github.com/pantixm
